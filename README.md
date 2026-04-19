@@ -17,6 +17,10 @@ This project reads an analog value (0-65535) from a potentiometer and converts i
 * **LEDs:** Connected to pins **GP6** through **GP15**.
 * **Potentiometer:** Middle pin connected to **GP26 (ADC0)**.
 * **Buzzer:** Connected to **GP16** (or your chosen digital pin).
+* 
+## 📺 Video Demo
+Check out the project in action:
+[Watch the video on YouTube](https://youtube.com/shorts/K9w9tiBj-J8)
 
 ## 💻 How to use
 1. Clone this repository or copy the `main.py` file.
